@@ -5,6 +5,6 @@ public class DogMovement : MonoBehaviour {
 //Wip, todavia no esta funcionando
     void Update()
     {
-    transform.position = new Vector3(DogSpeed, 0, 0) *  Time.deltaTime;
+    transform.position += new Vector3(DogSpeed, 0, 0) *  Time.deltaTime;
     }
 }

@@ -10,18 +10,21 @@ public class MovimientoLibre : MonoBehaviour
     void Update() {
       bool isInputRight = (Input.GetKey(KeyCode.D));
       if (isInputRight) {
-        transform.position = new Vector3(Speed, 0, 0) * Time.deltaTime;
+        transform.position += new Vector3(Speed, 0, 0) * Time.deltaTime;
       }
 
       bool isInputLeft = (Input.GetKey(KeyCode.A));
       if (isInputLeft) {
-        transform.position = new Vector3(-Speed, 0, 0) * Time.deltaTime;
+        transform.position += new Vector3(-Speed, 0, 0) * Time.deltaTime;
       }
 
-      //Es solo para testeo así que no lo voy a corregir mucho
-      bool isJumping =  (Input.GetKey(KeyCode.Space));
-      if (isJumping) {
-        transform.position = new Vector3 (0, JumpForce, 0);
+      bool isInputUp = (Input.GetKey(KeyCode.W));
+      if (isInputUp) {
+        transform.position += new Vector3(0, Speed, 0) * Time.deltaTime;
+      }
+      bool isInputDown = (Input.GetKey(KeyCode.S));
+      if (isInputDown) {
+        transform.position += new Vector3(0, -Speed, 0) * Time.deltaTime;
       }
     }
 }
