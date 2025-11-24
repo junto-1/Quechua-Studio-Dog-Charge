@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class PlayerHP : MonoBehaviour
 {
-public int Current_HP = 5;
-public int Max_HP = 5;
+public int CurrentHp = 5;
+public int MaxHp = 5;
     void Update() {
 
       /*Llama a las funciones de recibir daño y curar
@@ -31,22 +31,22 @@ public int Max_HP = 5;
 
       //Reduce HP si el jugador recibe daño
       void TakeDamage(int amount) {
-        Current_HP -= amount;
+        CurrentHp -= amount;
       }
 
       //Mata al jugador si su HP es 0
-        if (Current_HP <= 0) {
+        if (CurrentHp <= 0) {
           Die();
         }
 
         //Evita que el jugador pase de 5HP
-        if (Current_HP >= Max_HP) {
-          Current_HP = Max_HP;
+        if (CurrentHp >= MaxHp) {
+          CurrentHp = MaxHp;
         }
 
         //Aumenta HP si el jugador se cura
         void IsHealing(int amount) {
-          Current_HP += amount;
+          CurrentHp += amount;
         }
     }
 
