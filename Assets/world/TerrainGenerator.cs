@@ -5,7 +5,6 @@ using UnityEngine;
 // Genera chunks adelante del jugador y destruye los que quedan atrás.
 public class TerrainGenerator : MonoBehaviour {
   public GameObject[] chunkPrefabs;
-  public Transform nextChunkPosition;
   public float minAngle = -30f;
   public float maxAngle = 30f;
   public Transform playerTransform;
@@ -13,20 +12,21 @@ public class TerrainGenerator : MonoBehaviour {
   public float chunkOffset = 100f;
 
   public GameObject lastChunk;
+  private Transform _nextChunkPosition;
 
 
   public void Start() {
-    nextChunkPosition = transform;
+    _nextChunkPosition = transform;
   }
 
   public void Update() {
-    if (playerTransform.position.x + chunkOffset > nextChunkPosition.position.x) {
+    if (playerTransform.position.x + chunkOffset > _nextChunkPosition.position.x) {
       CreateChunk();
     }
   }
 
   private void CreateChunk() {
-    lastChunk = Instantiate(chunkPrefabs[Random.Range(0, chunkPrefabs.Length)], nextChunkPosition.position,
+    lastChunk = Instantiate(chunkPrefabs[Random.Range(0, chunkPrefabs.Length)], _nextChunkPosition.position,
       Quaternion.identity);
 
 
@@ -35,6 +35,6 @@ public class TerrainGenerator : MonoBehaviour {
     }
 
 
-    nextChunkPosition = lastChunk.GetComponent<Chunk>().Endpoint;
+    _nextChunkPosition = lastChunk.GetComponent<Chunk>().Endpoint;
   }
 }
