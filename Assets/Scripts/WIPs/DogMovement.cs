@@ -27,7 +27,7 @@ public class DogMovement : MonoBehaviour {
    Entonces al entrar en contacto ejecuta el salto automáticamente
    */
     void OnTriggerEnter2D(Collider2D other) {
-      if (other.CompareTag("AreaDeSalto")) {
+      if (other.CompareTag("JumpingArea")) {
         Jump();
       }
     }
