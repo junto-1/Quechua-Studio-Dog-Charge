@@ -1,5 +1,6 @@
 using System.Linq;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 // Segun chatGPT es buena practica, hay otras formas de declarar tipos pero es la unica que supe aplicar y que funcione
 public struct Damage {
@@ -49,5 +50,6 @@ public class PlayerHP : MonoBehaviour {
   //Mata al jugador
   public void Die() {
     Destroy(gameObject);
+    SceneManager.LoadSceneAsync(4);
   }
 }
