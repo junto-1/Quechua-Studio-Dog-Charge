@@ -7,6 +7,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     void Update()
     {
-      scoreText.text = "Score: " + scoreSystem.Score;
+      scoreText.text = "Score: " + scoreSystem.Puntuación;
     }
 }
