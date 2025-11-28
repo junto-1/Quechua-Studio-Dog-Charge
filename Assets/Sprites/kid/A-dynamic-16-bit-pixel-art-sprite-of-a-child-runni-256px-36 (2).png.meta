@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: e5b45dce749286a4a951b5a28375c9d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -74969399444178744
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_0
+  - first:
+      213: -5700052350154688342
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_1
+  - first:
+      213: 5272104600738230379
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_2
+  - first:
+      213: -4023022269110721010
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_3
+  - first:
+      213: -38882316679746921
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_4
+  - first:
+      213: -8164811568395984036
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_5
+  - first:
+      213: 899496597924738970
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_6
+  - first:
+      213: 5740765495730803346
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_7
+  - first:
+      213: -1941543644711882462
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_8
+  - first:
+      213: 2375787533308978809
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_9
+  - first:
+      213: -6087696717803222045
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_10
+  - first:
+      213: 8524245163563292319
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_11
+  - first:
+      213: 1849704054103635009
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_12
+  - first:
+      213: 4693318090055659722
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_13
+  - first:
+      213: 2702617284226560874
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_14
+  - first:
+      213: -2659804234557023168
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_15
+  - first:
+      213: -3456845543576038067
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_16
+  - first:
+      213: -7026775413619485931
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_17
+  - first:
+      213: -8667812742256390357
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_18
+  - first:
+      213: -7781523981724081625
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_19
+  - first:
+      213: -1898895073374609162
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_20
+  - first:
+      213: -3334776892573034549
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_21
+  - first:
+      213: 5013652381313854011
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_22
+  - first:
+      213: -8420880917309949035
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_23
+  - first:
+      213: 4971880186561563282
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_24
+  - first:
+      213: -7602269578902199008
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_25
+  - first:
+      213: 650676625112950643
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_26
+  - first:
+      213: 3043351452734693813
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_27
+  - first:
+      213: -4942537379434978120
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_28
+  - first:
+      213: 6058823583107505116
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_29
+  - first:
+      213: 8232310017460380628
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_30
+  - first:
+      213: -6884254286254337880
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_31
+  - first:
+      213: 4406687430826870922
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_32
+  - first:
+      213: -5739647293456002219
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_33
+  - first:
+      213: -5632651557720236254
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_34
+  - first:
+      213: 6575490046769383784
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_35
+  - first:
+      213: -349905174854327154
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_36
+  - first:
+      213: -2117010301438789331
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_37
+  - first:
+      213: 1356566669587382136
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_38
+  - first:
+      213: -5224220781603904803
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_39
+  - first:
+      213: 1771173942756312594
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_40
+  - first:
+      213: 7159435163841780248
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_41
+  - first:
+      213: -1059160279608422521
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_42
+  - first:
+      213: 2257352839254615947
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_43
+  - first:
+      213: -5916797305380714969
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_44
+  - first:
+      213: 98069942081251221
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_45
+  - first:
+      213: -7182039334730935139
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_46
+  - first:
+      213: 3778223727299783911
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_47
+  - first:
+      213: -2369045767977973312
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_48
+  - first:
+      213: -1471460662659906623
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_49
+  - first:
+      213: -4150235446907143237
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_50
+  - first:
+      213: -7699146726928682969
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_51
+  - first:
+      213: 3526076474713504245
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_52
+  - first:
+      213: -2376246625369625972
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_53
+  - first:
+      213: -1251253724711768068
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_54
+  - first:
+      213: -118181760865991762
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_55
+  - first:
+      213: -5189949423754758269
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_56
+  - first:
+      213: -4107085492021231013
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_57
+  - first:
+      213: -5365892458083700605
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_58
+  - first:
+      213: 4295092800262098801
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_59
+  - first:
+      213: 2605936041831088635
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_60
+  - first:
+      213: 8761224373346915823
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_61
+  - first:
+      213: -576050269862424450
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_62
+  - first:
+      213: -6304856591768707696
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_63
+  - first:
+      213: 1346036721718229863
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_64
+  - first:
+      213: 7180891244943305832
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_65
+  - first:
+      213: 8884155642509755742
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_66
+  - first:
+      213: 4419527400125670755
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_67
+  - first:
+      213: 5592552790606599463
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_68
+  - first:
+      213: 4604050656120889304
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_69
+  - first:
+      213: 5272747804092369943
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_70
+  - first:
+      213: -7931884137902359381
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_71
+  - first:
+      213: -947094651981425731
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_72
+  - first:
+      213: -637495194230047696
+    second: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1631
+        width: 206
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8fa197ab7a5fef0800000000000000
+      internalID: -74969399444178744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1622
+        width: 186
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa836e3769855e0b0800000000000000
+      internalID: -5700052350154688342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1622
+        width: 186
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6074b993374a2940800000000000000
+      internalID: 5272104600738230379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1654
+        width: 235
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e066b26af8a5b28c0800000000000000
+      internalID: -4023022269110721010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1622
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a624e2dbcd57ff0800000000000000
+      internalID: -38882316679746921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 1622
+        width: 177
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53e1c73323c0be80800000000000000
+      internalID: -8164811568395984036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1298
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f9fbd367ab7c00800000000000000
+      internalID: 899496597924738970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1327
+        width: 231
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2929adf6dcb4baf40800000000000000
+      internalID: 5740765495730803346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1327
+        width: 231
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f70587504e05e0800000000000000
+      internalID: -1941543644711882462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1299
+        width: 172
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976eea09c2e78f020800000000000000
+      internalID: 2375787533308978809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1300
+        width: 214
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0703d618248ba0800000000000000
+      internalID: -6087696717803222045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1328
+        width: 236
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96188810d33c4670800000000000000
+      internalID: 8524245163563292319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 975
+        width: 212
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144727c79087ba910800000000000000
+      internalID: 1849704054103635009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 988
+        width: 231
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0bea7cfe3022140800000000000000
+      internalID: 4693318090055659722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 974
+        width: 215
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63b726d910a18520800000000000000
+      internalID: 2702617284226560874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1247
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1623142a761bd0800000000000000
+      internalID: -2659804234557023168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1251
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4512c31b41d600d0800000000000000
+      internalID: -3456845543576038067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1230
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51313c2adf0eb7e90800000000000000
+      internalID: -7026775413619485931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 975
+        width: 179
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f04362c3eb5b780800000000000000
+      internalID: -8667812742256390357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 975
+        width: 202
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722272aba29720490800000000000000
+      internalID: -7781523981724081625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1225
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f064c5ddf4c5a5e0800000000000000
+      internalID: -1898895073374609162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1236
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7d009a51e78b1d0800000000000000
+      internalID: -3334776892573034549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1214
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae08ff642149540800000000000000
+      internalID: 5013652381313854011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1219
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bffd3eb65032b80800000000000000
+      internalID: -8420880917309949035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1211
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0ec100baaff440800000000000000
+      internalID: 4971880186561563282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1200
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a6c6b8105f7690800000000000000
+      internalID: -7602269578902199008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e18f61faa70900800000000000000
+      internalID: 650676625112950643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 1186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1abea95082c3a20800000000000000
+      internalID: 3043351452734693813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1200
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b420b9a074986bb0800000000000000
+      internalID: -4942537379434978120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1180
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd1e3a2f3451450800000000000000
+      internalID: 6058823583107505116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1170
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ad9f185a0f3270800000000000000
+      internalID: 8232310017460380628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1168
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0995473373670a0800000000000000
+      internalID: -6884254286254337880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1168
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a884d96eed2b72d30800000000000000
+      internalID: 4406687430826870922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 974
+        width: 280
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d581523da850b0800000000000000
+      internalID: -5739647293456002219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 845
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd886504dc4d1b0800000000000000
+      internalID: -5632651557720236254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 776
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8694ecdeb55d04b50800000000000000
+      internalID: 6575490046769383784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 793
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84acbbe813e42bf0800000000000000
+      internalID: -349905174854327154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 780
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29f5e4e85ede92e0800000000000000
+      internalID: -2117010301438789331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 771
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff3e6d23e73d210800000000000000
+      internalID: 1356566669587382136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 760
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd22944d0e6df77b0800000000000000
+      internalID: -5224220781603904803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 647
+        width: 314
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160b6d1159749810800000000000000
+      internalID: 1771173942756312594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 648
+        width: 311
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ada35695c6b5360800000000000000
+      internalID: 7159435163841780248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 647
+        width: 314
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f8cbd565b1d41f0800000000000000
+      internalID: -1059160279608422521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 695
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ad74827ab35f10800000000000000
+      internalID: 2257352839254615947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 647
+        width: 318
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7264bc4033053eda0800000000000000
+      internalID: -5916797305380714969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 702
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59765ecb71a6c5100800000000000000
+      internalID: 98069942081251221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 647
+        width: 320
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94da72f645445c90800000000000000
+      internalID: -7182039334730935139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 711
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece7ab4672fe6430800000000000000
+      internalID: 3778223727299783911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 647
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9c70ffc657f1fd0800000000000000
+      internalID: -2369045767977973312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 694
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3023dc252549be0800000000000000
+      internalID: -1471460662659906623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 323
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb7dd499d66766c0800000000000000
+      internalID: -4150235446907143237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 356
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720fdcbf7d2272590800000000000000
+      internalID: -7699146726928682969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 323
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f82e2fd32fe030800000000000000
+      internalID: 3526076474713504245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 334
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6f1cb840e50fd0800000000000000
+      internalID: -2376246625369625972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 323
+        width: 318
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffaba6ed57a2aee0800000000000000
+      internalID: -1251253724711768068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 334
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea307ac80522c5ef0800000000000000
+      internalID: -118181760865991762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 323
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387bad22f7899f7b0800000000000000
+      internalID: -5189949423754758269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 334
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520ae95183b007c0800000000000000
+      internalID: -4107085492021231013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_58
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 323
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38039f43d358885b0800000000000000
+      internalID: -5365892458083700605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_59
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 334
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc5fc352c3b9b30800000000000000
+      internalID: 4295092800262098801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_60
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 323
+        width: 317
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1cab0f5052a2420800000000000000
+      internalID: 2605936041831088635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_61
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 334
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe556da062f169970800000000000000
+      internalID: 8761224373346915823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 318
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e701514e4557108f0800000000000000
+      internalID: -576050269862424450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 10
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d98d79556a088a0800000000000000
+      internalID: -6304856591768707696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_64
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 318
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b75ac44451ea210800000000000000
+      internalID: 1346036721718229863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_65
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 10
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cee819a86a7a360800000000000000
+      internalID: 7180891244943305832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_66
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 317
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5583119c7cda4b70800000000000000
+      internalID: 8884155642509755742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_67
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 10
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a89731c0555d30800000000000000
+      internalID: 4419527400125670755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_68
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 311
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d9b7e12dbc9d40800000000000000
+      internalID: 5592552790606599463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_69
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 10
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5dfdadafd4ef30800000000000000
+      internalID: 4604050656120889304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_70
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 304
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c852d01309c2940800000000000000
+      internalID: 5272747804092369943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_71
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 10
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac36c8c6694ce190800000000000000
+      internalID: -7931884137902359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_72
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 0
+        width: 289
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db399f39e6e3bd2f0800000000000000
+      internalID: -947094651981425731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_73
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 10
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c36e99f792727f0800000000000000
+      internalID: -637495194230047696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_0: -74969399444178744
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_1: -5700052350154688342
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_10: -6087696717803222045
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_11: 8524245163563292319
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_12: 1849704054103635009
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_13: 4693318090055659722
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_14: 2702617284226560874
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_15: -2659804234557023168
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_16: -3456845543576038067
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_17: -7026775413619485931
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_18: -8667812742256390357
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_19: -7781523981724081625
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_2: 5272104600738230379
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_20: -1898895073374609162
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_21: -3334776892573034549
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_22: 5013652381313854011
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_23: -8420880917309949035
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_24: 4971880186561563282
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_25: -7602269578902199008
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_26: 650676625112950643
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_27: 3043351452734693813
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_28: -4942537379434978120
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_29: 6058823583107505116
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_3: -4023022269110721010
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_30: 8232310017460380628
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_31: -6884254286254337880
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_32: 4406687430826870922
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_33: -5739647293456002219
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_34: -5632651557720236254
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_35: 6575490046769383784
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_36: -349905174854327154
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_37: -2117010301438789331
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_38: 1356566669587382136
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_39: -5224220781603904803
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_4: -38882316679746921
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_40: 1771173942756312594
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_41: 7159435163841780248
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_42: -1059160279608422521
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_43: 2257352839254615947
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_44: -5916797305380714969
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_45: 98069942081251221
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_46: -7182039334730935139
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_47: 3778223727299783911
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_48: -2369045767977973312
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_49: -1471460662659906623
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_5: -8164811568395984036
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_50: -4150235446907143237
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_51: -7699146726928682969
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_52: 3526076474713504245
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_53: -2376246625369625972
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_54: -1251253724711768068
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_55: -118181760865991762
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_56: -5189949423754758269
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_57: -4107085492021231013
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_58: -5365892458083700605
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_59: 4295092800262098801
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_6: 899496597924738970
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_60: 2605936041831088635
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_61: 8761224373346915823
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_62: -576050269862424450
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_63: -6304856591768707696
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_64: 1346036721718229863
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_65: 7180891244943305832
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_66: 8884155642509755742
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_67: 4419527400125670755
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_68: 5592552790606599463
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_69: 4604050656120889304
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_7: 5740765495730803346
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_70: 5272747804092369943
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_71: -7931884137902359381
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_72: -947094651981425731
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_73: -637495194230047696
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_8: -1941543644711882462
+      A-dynamic-16-bit-pixel-art-sprite-of-a-child-runni-256px-36 (2)_9: 2375787533308978809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
