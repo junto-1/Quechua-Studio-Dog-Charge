@@ -50,6 +50,6 @@ public class PlayerHP : MonoBehaviour {
   //Mata al jugador
   public void Die() {
     Destroy(gameObject);
-    SceneManager.LoadSceneAsync(4);
+    SceneManager.LoadSceneAsync(0);
   }
 }
