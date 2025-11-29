@@ -5,8 +5,8 @@ public class DogMovement : MonoBehaviour {
   public float DogSpeed = 10f;
   private Rigidbody2D rb;
   private Animator animator;
-  private bool isInJumpArea  = false;
-  private bool WantsToChange = false;
+  private bool isGrounded = true;
+  private bool isJumping = false;
 
   private void Start() {
     rb = GetComponent<Rigidbody2D>();
@@ -26,39 +26,39 @@ public class DogMovement : MonoBehaviour {
   El rango necesita del tag para funcionar.
   El salto es automático.
   */
-  private void OnTriggerEnter2D(Collider2D other)
-  {
-    if (other.CompareTag("JumpingArea"))
-    {
-      isInJumpArea = true;
+  private void OnTriggerEnter2D(Collider2D other) {
+    if (other.CompareTag("JumpingArea")) {
       Jump();
+
     }
   }
 
   //Ejecuta el salto y (se supone) que cambia la animación
   void Jump() {
     rb.AddForce(Vector2.up * 1000);
+    animator.SetBool("isGrounded", false);
   }
 
-
-  private void OnTriggerExit2D(Collider2D other) {
-    if (other.CompareTag("JumpingArea"))
-    {
-      isInJumpArea = false;
+  private void OnCollisionEnter2D(Collision2D collision) {
+    if (collision.collider.CompareTag("Ground")) {
+      isGrounded = true;
     }
   }
 
-  private void UpdateAnimator()
-  {
-    animator.SetBool("isInJumpArea", isInJumpArea);
-    if (!isInJumpArea)
-    {
-            changeTheAnimation();
+
+  private void OnCollisionExit2D(Collision2D collision) {
+    if (collision.collider.CompareTag("Ground")) {
+      isGrounded = false;
     }
   }
 
-  private void changeTheAnimation()
-  {
-  animator.SetBool("Cambia", WantsToChange);
+  private void UpdateAnimator() {
+    animator.SetBool("isGrounded", isGrounded);
+
+
+    animator.SetBool("running", isGrounded);
+
+
+    animator.SetBool("isJumping", !isGrounded);
   }
 }
