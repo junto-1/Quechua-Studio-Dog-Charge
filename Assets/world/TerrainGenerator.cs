@@ -8,6 +8,7 @@ public class TerrainGenerator : MonoBehaviour {
   public float minAngle = -30f;
   public float maxAngle = 30f;
   public Transform playerTransform;
+  public int defaultChunkIndex = 0;
 
   public float chunkOffset = 100f;
 
@@ -17,6 +18,8 @@ public class TerrainGenerator : MonoBehaviour {
 
   public void Start() {
     _nextChunkPosition = transform;
+    // Crear primer chunk forzado a ser el primero
+    CreateChunk(defaultChunkIndex);
   }
 
   public void Update() {
@@ -25,8 +28,13 @@ public class TerrainGenerator : MonoBehaviour {
     }
   }
 
-  private void CreateChunk() {
-    lastChunk = Instantiate(chunkPrefabs[Random.Range(0, chunkPrefabs.Length)], _nextChunkPosition.position,
+  private void CreateChunk(int i = -1) {
+    int index = i != -1
+      ? i
+      : Random.Range(0, chunkPrefabs.Length);
+    // Esto es una porqueria, pero...
+    // Si se forza un chunk se elige ese, si no, se toma uno random del array
+    lastChunk = Instantiate(chunkPrefabs[index], _nextChunkPosition.position,
       Quaternion.identity);
 
 
